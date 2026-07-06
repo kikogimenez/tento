@@ -10,7 +10,7 @@ Tento helps restaurants digitize orders, payments, delivery, reservations, loyal
 
 Use the brand manual as reference:
 
-ai-context/00_tento_Manual_de_Marca_compressed.pdf
+ai-context/00_tento_Manual de Marca_compressed.pdf
 
 ## Design reference
 
@@ -75,7 +75,7 @@ This document contains the official narrative of Tento.
 
 Additional visual references:
 
-- ai-context/investors/Tento_Resumen_Ejecutivo.docx
+- ai-context/investors/Tento_Resumen_Ejecutivo.pdf
 - ai-context/investors/onepager.pdf
 
 Whenever generating:
