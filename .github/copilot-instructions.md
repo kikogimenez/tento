@@ -64,3 +64,40 @@ When generating product features:
 - Optimize for restaurant operations
 - Prioritize speed, reliability and ease of use
 - Consider integrations with POS, payments and logistics
+
+## Investor Material
+
+The primary source of truth is:
+
+ai-context/investors/company-story.md
+
+This document contains the official narrative of Tento.
+
+Additional visual references:
+
+- ai-context/investors/Tento_Resumen_Ejecutivo.docx
+- ai-context/investors/onepager.pdf
+
+Whenever generating:
+
+- Executive Summaries
+- One-Pagers
+- Pitch Decks
+- Investor presentations
+- Fundraising documents
+
+use **company-story.md** as the primary source of truth.
+
+Use the Executive Summary and OnePager only as supporting references for messaging and visual hierarchy.
+
+These documents are the official source for:
+
+- Storytelling
+- Positioning
+- Vision
+- Market
+- Traction
+- Product
+- Business model
+
+Maintain consistency with them when generating executive summaries, one-pagers or pitch decks.
