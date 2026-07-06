@@ -14,9 +14,13 @@ ai-context/00_tento_Manual_de_Marca_compressed.pdf
 
 ## Design reference
 
-Use the official website as the main visual reference:
+Official website:
+https://www.tento.la
 
-https://www.tento.la/
+Official Figma:
+https://www.figma.com/design/RSWKkWHZmpLHR5R4jkDgzc/Tento?node-id=102-4103&t=YhPPJet9TDpbbuDR-1
+
+Use both as the source of truth for all UI and UX decisions.
 
 Maintain the same design language:
 - Premium
