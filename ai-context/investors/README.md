@@ -5,6 +5,7 @@ This folder contains the official investor documentation for Tento.
 ## Source of truth
 
 **`Tento_Resumen_Ejecutivo.docx` is the primary source of truth** for all investor-facing content. When generating executive summaries, one-pagers, pitch decks, or any investor material, this document takes priority over any other file in this repo.
+El texto debe reproducirse verbatim, nunca resumido ni parafraseado, salvo indicación explícita
 
 `company-story.md` is supplementary narrative context — use it to enrich tone and storytelling, but never let it override facts, figures, or structure from `Tento_Resumen_Ejecutivo.docx`.
 
